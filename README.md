@@ -30,8 +30,4 @@ npm start
 - [x] Containerizing NodeJS app using Docker
 
 
-## Figma Design - 
-[*Click me!!*](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15)
-## Credits 
 
-YouTube - [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) 
