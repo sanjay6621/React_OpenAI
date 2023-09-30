@@ -4,7 +4,7 @@ import {Blog,Features,Footer,Header,Possibility,WhatGPT3} from "./containers";
 import {CTA,Brand,Navbar} from "./components";
 
 function App() {
-  return (
+ return (//components
     <div className="App">
       <div className="gradient__bg">
         <Navbar/>
